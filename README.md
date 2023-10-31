@@ -1,6 +1,13 @@
-Newsletter sign-up form with success message
+#Newsletter Signup Form
 
-this project is a part of frontend mentor and is build using HTML, CSS and Javascript to validate error.
+Newsletter sign-up form with success message this project is a part of frontend mentor and is build using HTML, CSS and Javascript to validate error.
+
+#Project Overview 
+
+The newsletter singup form is a simple design not fully functional it is make using html and css and showing error or message if the email is valid using
+javascript.
+
+Live server: https://blackd23.github.io/Newsletter-signup-form/index.html
 
 ## Features
 
